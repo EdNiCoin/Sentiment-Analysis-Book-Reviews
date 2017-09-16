@@ -36,7 +36,7 @@ Contributors: Edward Ni, Cian O'Callaghan, Kush Agarwal
 
 #####
 # Folder Contents:
-	train.r
+	SentAnalysis.r
 	reviewsDataset.json
 	README.txt
 #####
